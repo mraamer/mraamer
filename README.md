@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, Welcome 👋
+
+I am Passionate about AI, Machine Learning, Robotics, and UAVs. 🤖🚀 I'm eager to explore and learn about cutting-edge technologies that drive innovation. 🌟 I enjoy diving into projects that challenge and enhance my skills in these areas. Excited to collaborate, learn, and contribute to the world of technology. 💻🎓
+
+- 🔭 I’m currently working on AI
+- 🌱 I’m currently learning AI & ML
+- 👯 I’m looking to collaborate on python projects
 
 <!--
 **mraamer/mraamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
